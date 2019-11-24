@@ -1,0 +1,17 @@
+.text{
+  margin-left: 100px;
+}
+
+.flexagon {
+/* margin-left: 750px; */
+margin-top: 300px;
+}
+
+
+.outer-container {
+  display: flex;
+}
+
+.nextpage {
+margin-left: 1320px;
+}
